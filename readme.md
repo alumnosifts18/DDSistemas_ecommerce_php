@@ -15,4 +15,5 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 
 _Si tenes dudas de como llevar adelante tu proyecto no dudes en consultar_
 
+* **Diego Giménez** - *diegoogimenezz1992@gmailcom* - [Linkedin](https://www.linkedin.com/in/diego-gimenez-733772192/)
 * **Emanuel Odstrcil** - *emanuelodstrcil@gmail.com* - [Linkedin](https://www.linkedin.com/in/emanuelodstrcil/)
